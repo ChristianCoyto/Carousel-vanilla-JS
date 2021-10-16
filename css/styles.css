@@ -22,7 +22,7 @@ body {
     display: flex;
     height: 500px;
     width: 100%;
-    transform: translateY(0);
+    /* transform: translateY(0); */
 }
 
 .btn-container {
